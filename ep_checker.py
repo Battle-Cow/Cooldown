@@ -2,8 +2,9 @@ import os
 import csv
 
 CHECK_VALUE = 2000
+DECAY_VALUE = 0.85
 
-def parse_csv(line):
+def characterDictionaryCreate(line):
     
     if len(line) == 6: # Check for length of 6, some CSV lines are invalid
                 
@@ -49,6 +50,7 @@ for fileName in fileNameList:
     for line in temporaryList:
         # Find each CSV line and remove all bracket squares
         if line.startswith("["):
+            # Do some ugly string cleaning
             line = line.replace("[", "")
             line = line.replace("],", "")
             line = line.replace("]", "")
@@ -64,7 +66,7 @@ for fileName in fileNameList:
             # Split each column via the comma
             parsedLine = line.split(",")
             # Convert the list into a dictionary
-            previousLog.append(parse_csv(parsedLine))
+            previousLog.append(characterDictionaryCreate(parsedLine))
         
         currentLog = []
         
@@ -73,7 +75,7 @@ for fileName in fileNameList:
             # Split the column via the comma
             parsedLine = line.split(",")
             # Convert the list into a dictionary
-            currentLog.append(parse_csv(parsedLine))
+            currentLog.append(characterDictionaryCreate(parsedLine))
         
         # Use list comprehension to remove None valeus from both lists
         previousLog = [line for line in previousLog if line]
@@ -83,14 +85,14 @@ for fileName in fileNameList:
         for previousCharacter in previousLog:
             
             name = previousCharacter["name"]
-            previousEP = int(previousCharacter["ep"])
+            previousEP = int(previousCharacter["ep"]) * DECAY_VALUE
          
             # Now, slooowly, go through the current dictionary searching for this name and compare the EP
             for currentCharacter in currentLog:
                 
                 if currentCharacter["name"] == name:
                     
-                    currentEP = int(currentCharacter["ep"])
+                    currentEP = int(currentCharacter["ep"]) * DECAY_VALUE
                     epDifference = currentEP - previousEP
                     
                     # Check if the EP difference is greater than the set CHECK_VALUE
