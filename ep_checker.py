@@ -2,7 +2,7 @@ import os
 import csv
 
 CHECK_VALUE = 2000
-DECAY_VALUE = 0.85
+DECAY_VALUE = 0.75
 
 def characterDictionaryCreate(line):
     
