@@ -1,0 +1,557 @@
+{
+
+	"roster": [
+
+		["Absolutmadve", "Druid", "Alt", 0, 50, 0],
+
+		["Adaras", "Rogue", "Social", 0, 50, 0],
+
+		["Alachita", "Warlock", "Social", 0, 50, 0],
+
+		["Alagar", "Warrior", "Social", 0, 50, 0],
+
+		["Alexie", "Rogue", "Alt", 0, 50, 0],
+
+		["Allardan", "Warlock", "Social", 0, 50, 0],
+
+		["Altibzz", "Rogue", "Officer alt", 246, 50, 4.92],
+
+		["Angin", "Priest", "Officer", 11948, 50, 238.96],
+
+		["Anotherchad", "Paladin", "Alt", 0, 50, 0],
+
+		["Aoefarming", "Mage", "Alt", 0, 50, 0],
+
+		["Aredallian", "Priest", "Social", 0, 50, 0],
+
+		["Aresoul", "Warlock", "Alt", 0, 50, 0],
+
+		["Ayie", "Mage", "Social", 49, 50, 0.98],
+
+		["Azeem", "Warrior", "Alt", 246, 50, 4.92],
+
+		["Azh", "Mage", "Loot master", 372, 50, 7.44],
+
+		["Babylegstren", "Druid", "Social", 0, 50, 0],
+
+		["Bankofthrow", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Bashkar", "Warrior", "Social", 11293, 117, 96.52],
+
+		["Beardedheals", "Priest", "Alt", 0, 50, 0],
+
+		["Belson", "Rogue", "Alt", 0, 50, 0],
+
+		["Bigbadjohn", "Warrior", "Alt", 0, 50, 0],
+
+		["Binbag", "Priest", "Alt", 0, 50, 0],
+
+		["Blogis", "Mage", "Raider", 8270, 270, 30.62],
+
+		["Blogisr", "Rogue", "Alt", 0, 50, 0],
+
+		["Blogisw", "Warrior", "Alt", 0, 50, 0],
+
+		["Brodersalsa", "Warlock", "Raider", 11493, 50, 229.86],
+
+		["Bruisealch", "Mage", "Alt", 0, 50, 0],
+
+		["Bruiseleet", "Warrior", "Officer", 8437, 70, 120.52],
+
+		["Brutals", "Rogue", "Raider", 10217, 291, 35.1],
+
+		["Bumbler", "Warlock", "Alt", 0, 50, 0],
+
+		["Cannelloni", "Mage", "Alt", 0, 50, 0],
+
+		["Cantkitethis", "Hunter", "Alt", 0, 50, 0],
+
+		["Catch", "Druid", "Officer alt", 0, 50, 0],
+
+		["Chadbad", "Paladin", "Social", 0, 50, 0],
+
+		["Chadswell", "Paladin", "Alt", 0, 50, 0],
+
+		["Chadwall", "Paladin", "Alt", 0, 50, 0],
+
+		["Chadweli", "Paladin", "Alt", 0, 50, 0],
+
+		["Chadwell", "Paladin", "Raider", 11906, 50, 238.12],
+
+		["Charsi", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Chillej", "Mage", "Officer alt", 0, 50, 0],
+
+		["Chimchar", "Mage", "Social", 0, 50, 0],
+
+		["Choji", "Hunter", "Alt", 0, 50, 0],
+
+		["Clearkarsten", "Mage", "Social", 0, 50, 0],
+
+		["Clipz", "Hunter", "Officer alt", 0, 50, 0],
+
+		["Clunky", "Warlock", "Alt", 0, 50, 0],
+
+		["Cooldownaq", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Cooldownbank", "Warrior", "Loot master", 0, 50, 0],
+
+		["Cooldownbwl", "Warrior", "Loot master", 0, 50, 0],
+
+		["Cooldownmc", "Warrior", "Loot master", 0, 50, 0],
+
+		["Cooldownzg", "Warrior", "Loot master", 0, 50, 0],
+
+		["Critz", "Rogue", "Alt", 0, 50, 0],
+
+		["Croissant", "Hunter", "Alt", 0, 50, 0],
+
+		["Cursedmidget", "Warlock", "Alt", 0, 50, 0],
+
+		["Dabido", "Paladin", "Social", 0, 50, 0],
+
+		["Deminator", "Mage", "Raider", 11890, 203, 58.57],
+
+		["Deucalion", "Warrior", "Trial", 5925, 115, 51.52],
+
+		["Diqhuntress", "Rogue", "Social", 0, 50, 0],
+
+		["Discojanne", "Mage", "Alt", 0, 50, 0],
+
+		["Diurnal", "Paladin", "Social", 0, 50, 0],
+
+		["Doty", "Warlock", "Alt", 0, 50, 0],
+
+		["Dou", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Double", "Warrior", "Guild Leader", 8411, 56, 150.19],
+
+		["Dovy", "Hunter", "Officer alt", 0, 50, 0],
+
+		["Dragox", "Warrior", "Social", 0, 50, 0],
+
+		["Drenty", "Priest", "Alt", 73, 50, 1.46],
+
+		["Dropped", "Druid", "Officer alt", 0, 50, 0],
+
+		["Dunst", "Mage", "Officer alt", 529, 50, 10.58],
+
+		["Duststasher", "Warrior", "Alt", 0, 50, 0],
+
+		["Dvärgprälle", "Priest", "Alt", 0, 50, 0],
+
+		["Eclair", "Rogue", "Raider", 11369, 100, 113.69],
+
+		["Effed", "Rogue", "Social", 60, 50, 1.2],
+
+		["Eilistraee", "Paladin", "Social", 0, 50, 0],
+
+		["Ekszyn", "Paladin", "Raider", 8828, 187, 47.2],
+
+		["Elunaru", "Hunter", "Alt", 0, 50, 0],
+
+		["Elurie", "Mage", "Alt", 0, 50, 0],
+
+		["Ewka", "Warlock", "Officer", 11910, 90, 132.33],
+
+		["Ewkaa", "Hunter", "Officer alt", 0, 50, 0],
+
+		["Fandelle", "Druid", "Alt", 0, 50, 0],
+
+		["Faster", "Paladin", "Officer alt", 0, 50, 0],
+
+		["Fearbanks", "Priest", "Alt", 0, 50, 0],
+
+		["Fearconsumes", "Mage", "Alt", 0, 50, 0],
+
+		["Fearfull", "Priest", "Raider", 4936, 50, 98.72],
+
+		["Fearherbs", "Mage", "Alt", 0, 50, 0],
+
+		["Fearmine", "Priest", "Alt", 0, 50, 0],
+
+		["Fearzerk", "Warrior", "Alt", 0, 50, 0],
+
+		["Fearzg", "Mage", "Alt", 0, 50, 0],
+
+		["Festy", "Mage", "Social", 4, 50, 0.08],
+
+		["Ffcat", "Druid", "Raider", 9206, 209, 44.04],
+
+		["Fittvätaren", "Druid", "Alt", 0, 50, 0],
+
+		["Fizzcrank", "Mage", "Officer alt", 378, 50, 7.56],
+
+		["Flexbert", "Hunter", "Social", 0, 50, 0],
+
+		["Fockeliduck", "Rogue", "Alt", 0, 50, 0],
+
+		["Forkbeard", "Druid", "Social", 6, 50, 0.12],
+
+		["Fragz", "Warlock", "Officer", 11844, 50, 236.88],
+
+		["Fragzclick", "Warrior", "Alt", 0, 50, 0],
+
+		["Freakflex", "Warrior", "Social", 0, 50, 0],
+
+		["Friatider", "Mage", "Alt", 0, 50, 0],
+
+		["Frontpage", "Paladin", "Alt", 0, 50, 0],
+
+		["Frosteh", "Mage", "Alt", 163, 50, 3.26],
+
+		["Frostskada", "Mage", "Alt", 268, 50, 5.36],
+
+		["Gedeon", "Warlock", "Alt", 0, 50, 0],
+
+		["Glacialchill", "Mage", "Social", 0, 50, 0],
+
+		["Glimz", "Rogue", "Raider", 10899, 95, 114.72],
+
+		["Grikis", "Warrior", "Alt", 0, 50, 0],
+
+		["Grumppy", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Gumpe", "Hunter", "Alt", 0, 50, 0],
+
+		["Guraki", "Mage", "Alt", 278, 50, 5.56],
+
+		["Gìn", "Warrior", "Social", 13, 50, 0.26],
+
+		["Gïn", "Priest", "Alt", 0, 50, 0],
+
+		["Harder", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Healingboi", "Priest", "Raider", 10741, 146, 73.56],
+
+		["Helten", "Paladin", "Officer", 23, 50, 0.46],
+
+		["Highestbank", "Warrior", "Alt", 0, 50, 0],
+
+		["Himash", "Druid", "Raider", 10154, 50, 203.08],
+
+		["Hiphop", "Rogue", "Social", 0, 50, 0],
+
+		["Hippocrates", "Druid", "Alt", 0, 50, 0],
+
+		["Hjullastare", "Druid", "Alt", 0, 50, 0],
+
+		["Hobben", "Mage", "Alt", 126, 50, 2.52],
+
+		["Holinezz", "Paladin", "Alt", 0, 50, 0],
+
+		["Holyfade", "Priest", "Trial", 6392, 112, 57.07],
+
+		["Hoodedone", "Rogue", "Alt", 0, 50, 0],
+
+		["Huvet", "Warlock", "Social", 0, 50, 0],
+
+		["Inept", "Warlock", "Alt", 0, 50, 0],
+
+		["Insen", "Paladin", "Officer", 11431, 177, 64.58],
+
+		["Jabari", "Warrior", "Social", 1101, 50, 22.02],
+
+		["Jazou", "Warlock", "Social", 0, 50, 0],
+
+		["Jedeye", "Warrior", "Social", 0, 50, 0],
+
+		["Jimrob", "Mage", "Alt", 0, 50, 0],
+
+		["Johnnydeepp", "Mage", "Social", 1191, 50, 23.82],
+
+		["Junttura", "Priest", "Social", 0, 50, 0],
+
+		["Justflamingo", "Warrior", "Raider", 11557, 78, 148.16],
+
+		["Jägarvapen", "Hunter", "Alt", 0, 50, 0],
+
+		["Kadez", "Mage", "Social", 0, 50, 0],
+
+		["Kaijjor", "Mage", "Alt", 0, 50, 0],
+
+		["Kaimata", "Warlock", "Social", 0, 50, 0],
+
+		["Kakkan", "Mage", "Alt", 0, 50, 0],
+
+		["Kelig", "Hunter", "Social", 0, 50, 0],
+
+		["Kertenkene", "Mage", "Social", 0, 50, 0],
+
+		["Kiwifruit", "Warrior", "Raider", 10227, 120, 85.22],
+
+		["Kiwifruits", "Mage", "Alt", 301, 50, 6.02],
+
+		["Klytemnestra", "Paladin", "Raider", 8297, 187, 44.36],
+
+		["Korbs", "Paladin", "Raider", 4434, 115, 38.55],
+
+		["Korbsi", "Mage", "Alt", 73, 50, 1.46],
+
+		["Kovach", "Paladin", "Social", 0, 50, 0],
+
+		["Krack", "Hunter", "Social", 0, 50, 0],
+
+		["Kreciash", "Mage", "Social", 0, 50, 0],
+
+		["Kvalme", "Priest", "Social", 0, 50, 0],
+
+		["Lachie", "Paladin", "Alt", 0, 50, 0],
+
+		["Legobank", "Warrior", "Alt", 0, 50, 0],
+
+		["Legox", "Hunter", "Social", 24, 50, 0.48],
+
+		["Leomage", "Mage", "Social", 1668, 50, 33.36],
+
+		["Leopriest", "Priest", "Alt", 0, 50, 0],
+
+		["Lexico", "Warlock", "Alt", 0, 50, 0],
+
+		["Lildog", "Rogue", "Alt", 0, 50, 0],
+
+		["Lilflamingo", "Hunter", "Alt", 0, 50, 0],
+
+		["Lilgodx", "Mage", "Social", 0, 50, 0],
+
+		["Lillesyrran", "Warrior", "Social", 0, 50, 0],
+
+		["Lionmountain", "Warrior", "Social", 2171, 50, 43.42],
+
+		["Lléwella", "Rogue", "Alt", 0, 50, 0],
+
+		["Lléwellyn", "Mage", "Alt", 246, 50, 4.92],
+
+		["Lokomotiv", "Paladin", "Social", 229, 50, 4.58],
+
+		["Lonarandir", "Druid", "Alt", 0, 50, 0],
+
+		["Mageyoulook", "Mage", "Trial", 8291, 262, 31.64],
+
+		["Maisie", "Warlock", "Alt", 0, 50, 0],
+
+		["Malese", "Warlock", "Officer alt", 420, 50, 8.4],
+
+		["Malux", "Rogue", "Officer alt", 129, 50, 2.58],
+
+		["Maysi", "Mage", "Alt", 366, 50, 7.32],
+
+		["Meit", "Priest", "Social", 0, 50, 0],
+
+		["Melise", "Rogue", "Alt", 48, 50, 0.96],
+
+		["Mellowed", "Hunter", "Alt", 320, 90, 3.55],
+
+		["Meltress", "Priest", "Alt", 0, 50, 0],
+
+		["Mingobank", "Rogue", "Alt", 0, 50, 0],
+
+		["Mistral", "Warlock", "Alt", 0, 50, 0],
+
+		["Mixastab", "Rogue", "Social", 0, 50, 0],
+
+		["Mordii", "Rogue", "Officer alt", 249, 50, 4.98],
+
+		["Mumpitz", "Priest", "Social", 3, 50, 0.06],
+
+		["Myggzie", "Rogue", "Social", 2, 50, 0.04],
+
+		["Nawn", "Hunter", "Raider", 7828, 292, 26.8],
+
+		["Nemis", "Druid", "Raider", 10445, 138, 75.68],
+
+		["Nemlock", "Warlock", "Alt", 0, 50, 0],
+
+		["Nittan", "Hunter", "Social", 35, 50, 0.7],
+
+		["Nizzi", "Rogue", "Social", 1, 50, 0.02],
+
+		["Nss", "Rogue", "Alt", 0, 50, 0],
+
+		["Nuben", "Rogue", "Social", 292, 50, 5.84],
+
+		["Nyh", "Paladin", "Social", 0, 50, 0],
+
+		["Nynaevé", "Druid", "Social", 3584, 62, 57.8],
+
+		["Odessa", "Druid", "Alt", 99, 50, 1.98],
+
+		["Olemeyer", "Hunter", "Officer alt", 0, 50, 0],
+
+		["Openbob", "Mage", "Social", 292, 50, 5.84],
+
+		["Ostmakaren", "Mage", "Raider", 7334, 622, 11.79],
+
+		["Ourania", "Priest", "Raider", 10769, 449, 23.98],
+
+		["Painut", "Warrior", "Social", 0, 50, 0],
+
+		["Palmerston", "Warlock", "Alt", 0, 50, 0],
+
+		["Parduotuve", "Warlock", "Alt", 0, 50, 0],
+
+		["Pasta", "Hunter", "Raider", 10702, 189, 56.62],
+
+		["Pastasalad", "Warrior", "Alt", 0, 50, 0],
+
+		["Patchface", "Rogue", "Alt", 0, 50, 0],
+
+		["Pathmojo", "Mage", "Social", 8, 50, 0.16],
+
+		["Petrys", "Warrior", "Raider", 10224, 258, 39.62],
+
+		["Pinkflamingo", "Mage", "Alt", 348, 50, 6.96],
+
+		["Piteman", "Warrior", "Social", 160, 50, 3.2],
+
+		["Pretys", "Warlock", "Alt", 0, 50, 0],
+
+		["Produde", "Mage", "Officer alt", 0, 50, 0],
+
+		["Projahn", "Mage", "Social", 0, 50, 0],
+
+		["Prostarian", "Priest", "Alt", 0, 50, 0],
+
+		["Prys", "Mage", "Alt", 91, 50, 1.82],
+
+		["Purplefanta", "Warrior", "Alt", 0, 50, 0],
+
+		["Qball", "Warrior", "Alt", 0, 50, 0],
+
+		["Qount", "Mage", "Alt", 0, 50, 0],
+
+		["Racerbilen", "Mage", "Alt", 0, 50, 0],
+
+		["Razeus", "Mage", "Alt", 0, 50, 0],
+
+		["Remgar", "Hunter", "Alt", 301, 50, 6.02],
+
+		["Retailgodx", "Rogue", "Alt", 0, 50, 0],
+
+		["Revux", "Mage", "Social", 22, 50, 0.44],
+
+		["Riebalas", "Mage", "Alt", 0, 50, 0],
+
+		["Räcerbilen", "Rogue", "Social", 229, 50, 4.58],
+
+		["Saher", "Mage", "Social", 747, 50, 14.94],
+
+		["Samamos", "Warrior", "Raider", 11870, 65, 182.61],
+
+		["Samsdad", "Hunter", "Alt", 420, 50, 8.4],
+
+		["Samsgrandpa", "Warlock", "Alt", 0, 50, 0],
+
+		["Satura", "Warrior", "Social", 0, 50, 0],
+
+		["Scarto", "Rogue", "Officer alt", 0, 50, 0],
+
+		["Scouser", "Druid", "Alt", 0, 50, 0],
+
+		["Sentlnel", "Mage", "Raider", 11955, 50, 239.1],
+
+		["Sever", "Warrior", "Alt", 0, 50, 0],
+
+		["Sideni", "Priest", "Raider", 11885, 377, 31.52],
+
+		["Simsalabiim", "Mage", "Officer alt", 214, 50, 4.28],
+
+		["Single", "Rogue", "Officer alt", 0, 50, 0],
+
+		["Skibidi", "Mage", "Alt", 11, 50, 0.22],
+
+		["Snusazu", "Rogue", "Alt", 0, 50, 0],
+
+		["Snusclick", "Rogue", "Alt", 0, 50, 0],
+
+		["Snusgtn", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Snusgutten", "Rogue", "Officer", 11900, 197, 60.4],
+
+		["Snuskaz", "Rogue", "Alt", 0, 50, 0],
+
+		["Sorcery", "Mage", "Loot master", 484, 50, 9.68],
+
+		["Sosad", "Warrior", "Social", 0, 50, 0],
+
+		["Stel", "Warrior", "Alt", 0, 50, 0],
+
+		["Stikke", "Rogue", "Social", 760, 50, 15.2],
+
+		["Stronger", "Warrior", "Officer", 11912, 100, 119.12],
+
+		["Stronker", "Warrior", "Officer alt", 0, 50, 0],
+
+		["Stronkest", "Rogue", "Alt", 0, 50, 0],
+
+		["Strum", "Paladin", "Loot master", 11093, 187, 59.32],
+
+		["Sugardaddi", "Warlock", "Social", 179, 50, 3.58],
+
+		["Swehennas", "Warlock", "Officer alt", 0, 50, 0],
+
+		["Swiftheals", "Druid", "Alt", 0, 50, 0],
+
+		["Tadasblinda", "Rogue", "Officer alt", 189, 50, 3.78],
+
+		["Tascor", "Paladin", "Alt", 3, 50, 0.06],
+
+		["Tekesh", "Warrior", "Social", 0, 50, 0],
+
+		["Theron", "Hunter", "Alt", 0, 50, 0],
+
+		["Thewarpope", "Warrior", "Social", 0, 50, 0],
+
+		["Throw", "Warrior", "Officer", 11958, 174, 68.72],
+
+		["Throwbank", "Warrior", "Alt", 100, 50, 2],
+
+		["Throwsummons", "Warlock", "Alt", 0, 50, 0],
+
+		["Tinyturnip", "Hunter", "Social", 2220, 620, 3.58],
+
+		["Torchbunny", "Warrior", "Alt", 0, 50, 0],
+
+		["Tren", "Hunter", "Raider", 11461, 317, 36.15],
+
+		["Trenlife", "Warrior", "Alt", 420, 180, 2.33],
+
+		["Trenstab", "Rogue", "Alt", 0, 50, 0],
+
+		["Trueguesser", "Warlock", "Raider", 11846, 115, 103],
+
+		["Tsumugi", "Warlock", "Alt", 0, 50, 0],
+
+		["Tyhin", "Mage", "Officer alt", 450, 50, 9],
+
+		["Vahuni", "Warrior", "Raider", 11258, 135, 83.39],
+
+		["Vinn", "Rogue", "Loot master", 0, 50, 0],
+
+		["Viví", "Mage", "Social", 0, 50, 0],
+
+		["Wallsy", "Warrior", "Loot master", 2, 50, 0.04],
+
+		["Xpma", "Hunter", "Raider", 6195, 96, 64.53],
+
+		["Ygrittee", "Hunter", "Alt", 0, 50, 0],
+
+		["Yoshiro", "Rogue", "Raider", 10720, 359, 29.86],
+
+		["Zabaa", "Warlock", "Social", 0, 50, 0],
+
+		["Zenden", "Paladin", "Alt", 0, 50, 0],
+
+		["Zycho", "Mage", "Alt", 0, 50, 0],
+
+		["Éclair", "Warrior", "Alt", 0, 50, 0],
+
+		["Ðietcoke", "Rogue", "Alt", 0, 50, 0],
+
+		["ßoobs", "Druid", "Alt", 0, 50, 0]
+
+	],
+
+	"timestamp": 1592494049
+
+}
